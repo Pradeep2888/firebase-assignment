@@ -1,0 +1,58 @@
+.navbox1{
+    display: flex;
+    justify-content: space-between;
+    height: 3rem;
+    background-color: blue;
+}
+.logobox{
+height:85%;
+width: 15%;
+background-color: white;
+margin-top: auto;
+margin-bottom: auto;
+margin-left: 10px;
+}
+.logoimg{
+    width: 100%;
+    height: 100%;
+}
+.navbox2{
+display: flex;
+gap: 20px;
+color: white;
+margin-right: 10px;
+}
+.navbox2child1{
+    background-color: rgb(255, 0, 195);
+    width: 4rem;
+    display: flex;
+    height: 80%;
+    margin: auto;
+}
+.navbox2child1>a{
+    margin: auto;
+    cursor: pointer;
+    text-decoration: none;
+}
+.navbox2child2{
+    background-color: greenyellow;
+    width: 4rem;
+    display: flex;
+    height: 80%;
+    margin: auto;
+    text-align: center;
+}
+.navbox2child2>p{
+    margin: auto;
+}
+.navbox2child3{
+    background-color: red;
+    width: 4rem;
+    display: flex;
+    height: 80%;
+    margin: auto;
+    text-align: center;
+}
+.navbox2child3>p{
+    margin: auto;
+}

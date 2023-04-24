@@ -1,0 +1,15 @@
+.homebox1{
+    border: 1px solid green;
+    display: grid;
+    grid-template-columns: 5% 30% 30% 30%;
+    gap: 1rem;
+}
+.homebox1>div{
+    border: 1px solid red;
+}
+
+/* Side Navbar */
+
+.sidenavbariconbox1{
+    border: 1px solid green;
+}
